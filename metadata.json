@@ -1,0 +1,6 @@
+{
+  "name": "WeatherNow",
+  "description": "A responsive weather forecasting application displaying current conditions and a 5-day forecast.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
